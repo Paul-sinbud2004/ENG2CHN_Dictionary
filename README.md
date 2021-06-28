@@ -2,7 +2,7 @@
 汉英小词典
 
 依赖LWP：：Protocol::https
-   LWP::UserAgent 
-   Tk
+   && LWP::UserAgent 
+   && Tk
    
 运行./tkbing.pl
